@@ -104,7 +104,9 @@ La plateforme évalue la maturité des contrôles informatiques, calcule les sco
 
 ---
 
+## 🔒 Note sur la protection des fichiers
 
+Les classeurs et feuilles Excel de ce projet sont protégés en écriture (verrouillage des formules et macros) afin de préserver l'intégrité de la logique métier. Cette protection n'affecte pas les droits accordés par la licence MIT — elle vise uniquement à éviter les modifications accidentelles lors de la consultation du fichier.
 
 ## 👤 Auteur
 
